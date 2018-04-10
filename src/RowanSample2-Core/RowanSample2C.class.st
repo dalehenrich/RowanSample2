@@ -9,6 +9,18 @@ Class {
 }
 
 { #category : 'accessing' }
+RowanSample2C >> c [
+
+	^ c
+]
+
+{ #category : 'accessing' }
+RowanSample2C >> c: anObject [
+
+	c := anObject
+]
+
+{ #category : 'accessing' }
 RowanSample2C >> ivar2 [
 
 	^ ivar2
