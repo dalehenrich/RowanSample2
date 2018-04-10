@@ -13,3 +13,9 @@ RowanSample2D >> ivar2 [
 
 	^ ivar2
 ]
+
+{ #category : 'accessing' }
+RowanSample2D >> ivar2: anObject [
+
+	ivar2 := anObject
+]
