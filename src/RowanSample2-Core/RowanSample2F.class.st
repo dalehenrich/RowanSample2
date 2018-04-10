@@ -6,3 +6,15 @@ Class {
 	],
 	#category : 'RowanSample1-Core'
 }
+
+{ #category : 'accessing' }
+RowanSample2F >> f [
+
+	^ f
+]
+
+{ #category : 'accessing' }
+RowanSample2F >> f: anObject [
+
+	f := anObject
+]
