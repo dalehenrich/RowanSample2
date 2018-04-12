@@ -1,7 +1,6 @@
 RwProjectCompoundConfiguration {
 	#name : 'SampleCore',
 	#comment : '',
-	#projectName : 'RowanSample2',
 	#packageNames : [
 		'RowanSample2-Core'
 	],
