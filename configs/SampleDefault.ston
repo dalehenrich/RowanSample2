@@ -3,5 +3,5 @@ RwProjectConfiguration {
 	#configNames : Set [
 		'RowanSample2-Core'
 	],
-	#comment : 'sample default config for RowanSample2 -- tests depend upon package list.'
+	#comment : 'sample default config for RowanSample2 -- Rowan tests depend upon package list.'
 }
