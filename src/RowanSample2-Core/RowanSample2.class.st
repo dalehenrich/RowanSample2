@@ -6,7 +6,7 @@ Class {
 		'ivar1',
 		'ivar2'
 	],
-	#category : 'RowanSample1-Core'
+	#category : 'RowanSample2-Core'
 }
 
 { #category : 'accessing' }
