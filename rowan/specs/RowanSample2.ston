@@ -13,5 +13,5 @@
 	#configsPath : 'rowan/configs',
 	#repoPath : 'rowan/src',
 	#specsPath : 'rowan/specs',
-	#comment : ''
+	#comment : 'Simple sample project that can be used when getting started with Jadeite and Rowan'
 }

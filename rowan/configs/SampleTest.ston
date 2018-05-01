@@ -1,8 +1,0 @@
-RwProjectCompoundConfiguration {
-	#name : 'SampleTest',
-	#comment : '',
-	#packageNames : [
-		'RowanSample2-Test'
-	],
-	#configurationNames : Set [ 'SampleCore' ]
-}
