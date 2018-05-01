@@ -1,9 +1,0 @@
-RwProjectCompoundConfiguration {
-	#name : 'SampleCompound',
-	#comment : '',
-	#packageNames : [ ],
-	#configurationNames : [
-		'SampleCore',
-		'SampleTest'
-	]
-}
