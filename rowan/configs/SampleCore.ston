@@ -1,0 +1,6 @@
+RwProjectCompoundConfiguration {
+	#name : 'SampleCore',
+	#packageNames : [ 'RowanSample2-Core' ],
+	#configurationNames : [],
+	#comment : 'compound Core configuration for the RowanSample2 project',
+}
