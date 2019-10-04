@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'c'
 	],
-	#category : 'RowanSample1-Core'
+	#category : 'RowanSample2-Core'
 }
 
 { #category : 'accessing' }

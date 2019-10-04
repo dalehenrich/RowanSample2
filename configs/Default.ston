@@ -1,7 +1,0 @@
-RwProjectCompoundConfiguration{
-	#name : 'Default',
-	#packageNames : [
-		'RowanSample2-Core'
-	],
-	#comment : 'standard config for RowanSample2.'
-}
