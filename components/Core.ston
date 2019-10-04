@@ -1,0 +1,26 @@
+RwComponentLoadConfiguration {
+	#name : 'Core',
+	#comment : 'Component used to load the entire systems',
+	#version : '0.1.0',
+	#conditionalPackages : {
+		[
+			'common'
+		] : {
+			'core' : {
+				#packageNames : [
+					'RowanSample2-Core'
+				]
+			}
+		}
+	},
+	#conditionalPackageMapSpecs : {
+		'gemstone' : {
+			'SystemUser' : {
+				#defaultSymbolDictName : 'RowanSample2'
+			}
+		}
+	},
+	#definedGroupNames : {
+		'core' : [ ]
+	}
+}
