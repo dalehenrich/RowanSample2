@@ -16,7 +16,7 @@ RwComponentLoadConfiguration {
 	#conditionalPackageMapSpecs : {
 		'gemstone' : {
 			'SystemUser' : {
-				#defaultSymbolDictName : 'RowanSample2'
+				#defaultSymbolDictName : 'RowanSample2_SD'
 			}
 		}
 	},
